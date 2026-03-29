@@ -1,0 +1,54 @@
+BHAWANA VERMA
+Miyapur, Hyderabad | +91 7302445290 | bhawvem@gmail.com
+LinkedIn Profile:https://www.linkedin.com/in/bhawana-verma-255937365/
+
+Career Objective
+A passionate and detail-oriented professional seeking a Google Cloud Associate Engineer role. Leveraging 4+ years of technical experience and specialized certifications in Generative AI and Cloud Infrastructure to build, deploy, and scale intelligent cloud solutions.
+
+Technical Skills
+Cloud Platform: Google Cloud Platform (GCP), Cloud Storage, BigQuery, Cloud SQL, Cloud Function, Cloud PUB/SUB.
+AI & Automation: Generative AI Agent Development (ADK), Terraform (IaC), Vertex AI basics.
+Operating Systems: Linux Administration, Windows.
+Professional Certifications
+
+Associate Cloud Engineer - Google Cloud Certified
+Generative AI Leader - Google Cloud Certified
+Cloud Technical Series - Oct 25
+Agent Development Kit (ADK) Builder
+
+Professional Experience
+Google Cloud Intern
+July 2025 – Present
+DC Infotech
+Developing AI-driven solutions using the Google Cloud Agent Development Kit (ADK).
+Gaining hands-on experience in Terraform for infrastructure automation and Linux Administration.
+Successfully completed Associate Cloud Engineer certification.
+
+Senior Executive (IT/ERP)
+New Delhi
+KEI Industries Ltd.
+Managed BAAN/ERP application administration and customization.
+Coordinated with vendors for issue tracking and applied system patches/upgrades.
+Ensured media backup and recovery for all business systems.
+Provided technical support for networking, hardware, and MS Outlook troubleshooting.
+
+Admin & Video Content Developer
+Dec 2018 – March 2021
+Womaniya - Fryda Technologies
+3 years of experience as Admin (Virtual) and Video Content Developer.
+Projects
+Payroll System
+KEI Industries
+Platform: Visual Basic, SQL Server on Windows XP.
+
+Developed an application to automate employee salary processing and generate pay slips.
+
+Education
+MCA: H.N.B. Garhwal University (70%)
+B.Sc (PCM Group): C.C.S. Meerut University
+DOEACC 'O' Level Diploma: Computer Programming and System Design
+
+Personal Details
+Languages: English, Hindi.
+
+Address: Miyapur, Hyderabad.
