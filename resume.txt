@@ -1,54 +1,99 @@
 BHAWANA VERMA
-Miyapur, Hyderabad | +91 7302445290 | bhawvem@gmail.com
-LinkedIn Profile:https://www.linkedin.com/in/bhawana-verma-255937365/
+Cloud & AI Engineer | Google Cloud Certified ACE | Generative AI Specialist
+Location: Miyapur, Hyderabad | Phone: +91 7302445290 | Email: bhawvem@gmail.com
+LinkedIn: linkedin.com/in/bhawana-verma-255937365 | GitHub: github.com/BhawanaVerm
 
-Career Objective
-A passionate and detail-oriented professional seeking a Google Cloud Associate Engineer role. Leveraging 4+ years of technical experience and specialized certifications in Generative AI and Cloud Infrastructure to build, deploy, and scale intelligent cloud solutions.
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Results-driven Cloud & AI Engineer with 4+ years of technical experience, including 1+ year of hands-on Generative AI development on Google Cloud Platform. Specialized in building and deploying production-ready AI agents using Gemini API, Agent Development Kit (ADK), and Google Cloud Run. Successfully built and live-deployed an AI Resume Agent demonstrated at Google Gen AI Academy APAC Edition (Cohort 1 & 2). Career returner with strong upskilling — earned Google Cloud Associate Cloud Engineer and Generative AI Leader certifications. Finalist at EliteHer Hackathon 2026. Passionate about solving real-world problems using AI and cloud-native solutions.
 
-Technical Skills
-Cloud Platform: Google Cloud Platform (GCP), Cloud Storage, BigQuery, Cloud SQL, Cloud Function, Cloud PUB/SUB.
-AI & Automation: Generative AI Agent Development (ADK), Terraform (IaC), Vertex AI basics.
-Operating Systems: Linux Administration, Windows.
-Professional Certifications
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Cloud Platforms: Google Cloud Platform (GCP) — Cloud Run, Cloud Storage, BigQuery, Cloud SQL, Cloud Functions, Pub/Sub
 
-Associate Cloud Engineer - Google Cloud Certified
-Generative AI Leader - Google Cloud Certified
-Cloud Technical Series - Oct 25
-Agent Development Kit (ADK) Builder
+AI & GenAI: Generative AI, Gemini API (2.5 Flash), Agent Development Kit (ADK), Vertex AI, Agent2Agent (A2A) SDK, LLM Integration, Prompt Engineering
 
-Professional Experience
-Google Cloud Intern
-July 2025 – Present
-DC Infotech
-Developing AI-driven solutions using the Google Cloud Agent Development Kit (ADK).
-Gaining hands-on experience in Terraform for infrastructure automation and Linux Administration.
-Successfully completed Associate Cloud Engineer certification.
+DevOps & IaC: Terraform, Docker, Google Cloud Build, CI/CD Pipelines
 
-Senior Executive (IT/ERP)
-New Delhi
-KEI Industries Ltd.
-Managed BAAN/ERP application administration and customization.
-Coordinated with vendors for issue tracking and applied system patches/upgrades.
-Ensured media backup and recovery for all business systems.
-Provided technical support for networking, hardware, and MS Outlook troubleshooting.
+Backend Dev: Python (Flask, Gunicorn), REST API Development, JSON
 
-Admin & Video Content Developer
-Dec 2018 – March 2021
-Womaniya - Fryda Technologies
-3 years of experience as Admin (Virtual) and Video Content Developer.
-Projects
-Payroll System
-KEI Industries
-Platform: Visual Basic, SQL Server on Windows XP.
+Frontend: HTML5, CSS3, JavaScript — Browser-based AI Agent UI
 
-Developed an application to automate employee salary processing and generate pay slips.
+Operating Systems: Linux Administration, Windows
 
-Education
-MCA: H.N.B. Garhwal University (70%)
-B.Sc (PCM Group): C.C.S. Meerut University
-DOEACC 'O' Level Diploma: Computer Programming and System Design
+ERP Systems: BAAN/ERP Administration, SQL Server, Visual Basic
 
-Personal Details
-Languages: English, Hindi.
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
 
-Address: Miyapur, Hyderabad.
+GCP Cloud Engineer Intern | DC Infotech Private Limited, Hyderabad
+June 2025 – September 2025
+- Developed AI-driven solutions using Google Cloud Agent Development Kit (ADK) and Gemini API (2.5 Flash)
+- Built and deployed production-ready AI agents on Google Cloud Run using Python (Flask) and Docker
+- Implemented Infrastructure as Code (IaC) using Terraform for cloud resource automation
+- Earned Associate Cloud Engineer and Generative AI Leader certifications from Google Cloud
+- Participated in Google Gen AI Academy APAC Edition — Cohort 1 (Hack2Skill 2026): Track 1 — Build and Deploy AI Agents
+- Registered and actively participating in Gen AI Academy APAC Edition — Cohort 2 (ongoing)
+
+Senior Executive — IT/ERP | KEI Industries Ltd., New Delhi
+August 2007 – March 2012
+- Managed BAAN/ERP application administration, customization, and vendor coordination
+- Handled media backup/recovery and applied system patches and upgrades
+- Provided technical support for networking, hardware, and MS Outlook troubleshooting
+
+Virtual Admin & Video Content Developer | Womaniya – Fryda Technologies
+December 2018 – March 2021
+- Managed virtual administration tasks and produced video content for digital platforms
+- Coordinated scheduling, communications, and online content delivery over 3 years
+
+================================================================================
+PROJECTS
+================================================================================
+
+AI Resume Agent — Google Cloud Run + Gemini AI
+Gen AI Academy APAC Edition, Hack2Skill | March 2026
+- Built intelligent conversational AI agent answering natural language queries about a candidate's resume in real-time
+- Deployed on Google Cloud Run (serverless) using Python (Flask) + Gunicorn + Docker — live public URL
+- Integrated Google Gemini 2.5 Flash API via REST for generateContent with resume context injection
+- Added Job Description Matcher feature — analyzes resume vs JD, gives match score, skill gaps & recommendations
+- Developed browser-based Chat UI with quick-question chips for Skills, Experience, Certifications, Education
+- Live URL: resume-agent-520538738442.us-central1.run.app
+- Tech Stack: Python, Flask, Google Cloud Run, Gemini 2.5 Flash, Docker, HTML5/CSS3/JavaScript
+
+EliteHer Hackathon — Hack2Skill | Solo Participant | Bhawana AI Labs | April 2026
+- Submitted AI project as solo developer — focused on cloud-native Generative AI solutions for women job seekers
+- Leveraged Google Cloud and Gemini API to build impactful tools solving real-world problems with scalability
+- Completed Registration, Team Formation, PPT Submission, and PPT Round Evaluation phases
+
+Payroll System — KEI Industries | Platform: Visual Basic, SQL Server
+- Developed an application to automate employee salary processing and generate pay slips
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+- Google Cloud Associate Cloud Engineer — Google Cloud Certified
+- Generative AI Leader — Google Cloud Certified
+- Agent Development Kit (ADK) Builder — Google Cloud
+- Prompt Design in Vertex AI — Google Cloud Skills Boost | October 2025
+- Gen AI Academy APAC Edition — Cohort 1: Build & Deploy AI Agents (Hack2Skill, March 2026) — Verified Certificate
+- Cloud Technical Series: AI in Action — Google Cloud Asia Pacific | April 2026
+- Cloud Technical Series: Gemini at Work Edition — Google Cloud Asia Pacific | November 2025
+- Cloud Technical Series: OnBoard Edition — Google Cloud Asia Pacific | February 2026
+- Gen AI Academy APAC Edition — Cohort 2 (Registered, Ongoing)
+
+================================================================================
+EDUCATION
+================================================================================
+MCA (Master of Computer Applications) | H.N.B. Garhwal University | 70%
+B.Sc (PCM Group) | C.C.S. Meerut University
+DOEACC 'O' Level Diploma — Computer Programming and System Design
+
+================================================================================
+ADDITIONAL INFORMATION
+================================================================================
+Languages: English, Hindi
+Location: Miyapur, Hyderabad, India
+Open to Work: Full-time | On-site | Remote | Hybrid
